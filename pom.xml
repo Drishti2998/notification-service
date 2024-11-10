@@ -92,6 +92,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+                    <finalName>notification-service</finalName>            
 				</configuration>
 			</plugin>
 		</plugins>
